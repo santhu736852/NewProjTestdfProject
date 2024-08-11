@@ -8,10 +8,10 @@ packages:
   gitUsername: santhu736852
   gitBranch: main
 services:
-- serviceName: project.newprojtestdf.integrations:testf
+- serviceName: project.newprojtestdf.integrations:newflow1
   packages:
   - name: NewProjTestdfProject
-    version: "1.0"
+    version: "2.0"
 - serviceName: pub.math:addInts
   packages:
   - name: WmPublic
