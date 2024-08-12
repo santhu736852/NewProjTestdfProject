@@ -8,11 +8,7 @@ packages:
   gitUsername: santhu736852
   gitBranch: main
 services:
-- serviceName: project.newprojtestdf.integrations:newflow1
+- serviceName: project.newprojtestdf.integrations:df1
   packages:
   - name: NewProjTestdfProject
     version: "2.0"
-- serviceName: pub.math:addInts
-  packages:
-  - name: WmPublic
-    version: 11.1.0.0.1132
